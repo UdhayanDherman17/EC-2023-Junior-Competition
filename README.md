@@ -10,4 +10,4 @@ minimal materials as possible.
 
 This was a project for fun and enjoyment - something other than academic studying with friends :)
 
-![](Event-Pictures/IMG_2040.jpg = 100x100) 
+![](Event-Pictures/IMG_2040.jpg =100x100) 
