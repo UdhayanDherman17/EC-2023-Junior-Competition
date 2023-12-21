@@ -9,3 +9,5 @@ Protect the styrofoam head model by designing a safety helmet, while using
 minimal materials as possible.
 
 This was a project for fun and enjoyment - something other than academic studying with friends :)
+
+IMG_2040.jpg
